@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mhetras&layout=compact&theme=tokyonight)  
 
