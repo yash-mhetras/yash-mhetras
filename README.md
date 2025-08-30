@@ -12,7 +12,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/yash-mhetras" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://x.com/yashxmhetras" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://instagram.com/yash__.0707" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="30" /></a>
+<a href="https://instagram.com/yash__.0707" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=yash-mhetras&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=yash-mhetras&theme=tokyonight)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mhetras&layout=compact&theme=tokyonight)  
 
 ---
+
