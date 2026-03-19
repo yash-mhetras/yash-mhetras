@@ -4,7 +4,6 @@
 - 🌱 currently my major focus is on **Backend and How to make clean & modern UI**
 - 👨‍💻 All of my projects are available at [my portfolio](https://yashxportfolio.xyz/)
 - 💬 Ask me about **MERN Stack, Frontend & Animations, SaaS apps**
-- 📫 How to reach me **yashrm2005@gmail.com**
 
 ---
 
